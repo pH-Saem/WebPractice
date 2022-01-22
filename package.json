@@ -1,0 +1,22 @@
+{
+  "name": "webpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pH-Saem/WebPractice.git"
+  },
+  "author": "phSaem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pH-Saem/WebPractice/issues"
+  },
+  "homepage": "https://github.com/pH-Saem/WebPractice#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
